@@ -73,7 +73,7 @@ The model achieves a high accuracy on the test set, with the predictions being v
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/digit-recognition.git
+   git clone https://github.com/HARIPRASADS-01/digit-recognition.git
 
 2. Install the required dependencies:
    ```bash
